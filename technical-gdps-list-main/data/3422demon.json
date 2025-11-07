@@ -1,0 +1,51 @@
+{
+	"id": 66,
+	"name": "3422 Demon",
+	"tags": [
+		"Long"
+	],
+	"author": "CreatorVav",
+	"creators": [],
+	"verifier": "TheRealWaffleee",
+	"verification": "https://youtu.be/dH4N9EdfBRA",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user":"ITheRealMuha",
+    			"link":"https://youtu.be/w-fLvIIeqvQ",
+    			"percent":100,
+    			"hz":165
+		},
+		{
+			"user":"everydayjonah",
+    			"link":"https://youtu.be/M9KktEzHS6g",
+    			"percent":100,
+    			"hz":360
+		},
+		     {
+			"user": "FB26",
+			"link": "https://youtu.be/KJ8hpoZ94vY",
+			"percent": 100,
+			"hz":144
+		},
+{
+			"user":"CosmicMelody",
+    			"link":"https://youtu.be/w-fLvIIeqvQ",
+    			"percent":100,
+    			"hz":240
+		},
+{
+			"user":"Token",
+    			"link":"https://youtu.be/Pf60PQWlzBA",
+    			"percent":100,
+    			"hz":360
+		},
+		{
+			"user": "kkolji",
+			"link": "https://www.youtube.com/watch?v=2s1Dj_HEVyY&ab",
+			"percent": 100,
+			"hz": 180
+		}
+		]
+}

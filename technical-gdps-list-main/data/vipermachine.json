@@ -1,0 +1,26 @@
+{
+	"id": 56,
+	"name": "Viper Machine",
+	"tags": [
+	],
+	"author": "DartuWc0X",
+	"creators": [],
+	"verifier": "everydayjonah",
+	"verification": "https://youtu.be/y05lZM3FJ6Q",
+	"percentToQualify": 78,
+	"password": "No Copy",
+	"records": [
+		{
+			"user":"CosmicMelody",
+    			"link":"https://www.youtube.com/watch?v=ZbLlXABGC20",
+    			"percent":100,
+    			"hz":240
+		},
+{
+			"user":"Token",
+    			"link":"https://youtu.be/Tv7_Z_rhZUk",
+    			"percent":100,
+    			"hz":360
+		}
+	]
+}

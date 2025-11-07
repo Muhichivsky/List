@@ -1,0 +1,20 @@
+{
+        "id": 156,
+        "name": "Trial",
+        "tags": [
+        ],
+        "author": "Oazysaz1616",
+        "creators": [],
+        "verifier": "Token",
+        "verification": "https://youtu.be/iYnaaUUvHHs",
+        "percentToQualify": 100,
+        "password": "No Copy",
+        "records": [
+                {
+			"user": "GameFunny",
+			"link": "https://drive.google.com/file/d/10KdbNMNoc321mRkn1glfarJJnCw_o-ql/view?usp=sharing",
+			"percent": 100,
+			"hz": 240
+		}	
+        ]
+}

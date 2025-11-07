@@ -1,0 +1,44 @@
+{
+	"id": 86,
+	"name": "PUPA",
+	"tags": [
+		"short"
+	],
+	"author": "Thelazycat2011",
+	"creators": [],
+	"verifier": "Thelazycat2011",
+	"verification": "https://youtu.be/NWopk4CjjzA",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "ITheRealMuha",
+			"link": "https://youtu.be/quO1xIDBUXs",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "everydayjonah",
+			"link": "https://youtu.be/unftJoTpknA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Token",
+			"link": "https://youtu.be/Q4LxDzLm7i8",
+			"percent": 100,
+			"hz": 360
+		},
+	{
+			"user": "FB26",
+			"link": "https://youtu.be/4t5rmY0VNqE",
+			"percent": 100,
+			"hz": 144
+		},
+  {
+    "user": "CosmicMelody",
+    "link": "https://www.youtube.com/watch?v=qlNKzpfpeLI",
+    "percent": 100,
+    "hz": 240
+  }]
+}

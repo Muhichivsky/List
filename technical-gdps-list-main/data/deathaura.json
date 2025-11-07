@@ -1,0 +1,52 @@
+{
+	"id": 35,
+	"name": "Death Aura",
+	"tags": [
+		"Medium"
+	],
+	"author": "ZeroxyGD",
+	"creators": [],
+	"verifier": "TheRealWaffleee",
+	"verification": "https://www.youtube.com/watch?v=r74XNSYDnS0",
+	"percentToQualify":100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user":"ITheRealMuha",
+			"link":"https://youtu.be/TeglL0M3LDE",
+			"percent":100,
+			"hz":165
+		},
+		{
+			"user":"everydayjonah",
+			"link":"https://youtu.be/0Mu7hJ2-EAc",
+			"percent":100,
+			"hz":360
+		},
+		{
+			"user":"Token",
+			"link":"https://youtu.be/4NaPxMuyJpc",
+			"percent":100,
+			"hz":360
+		},
+		{
+			"user":"FB26",
+			"link":"https://youtu.be/4t5rmY0VNqE",
+			"percent":100,
+			"hz":144
+		},
+		{
+			"user":"CosmicMelody",
+			"link":"https://youtu.be/4t5rmY0VNqE",
+			"percent":100,
+			"hz":240
+		},
+		{
+		        "user": "GameFunny",
+			"link": "https://drive.google.com/file/d/1xVo9yUi_gNZ1M3yPWzLilxvPZJ988pq-/view?usp=drive_link",
+			"percent": 100,
+			"hz": 240
+	        }
+	
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"id": 37,
+	"name": "Wasteland",
+	"tags": [
+	],
+	"author": "Thelazycat2011",
+	"creators": [],
+	"verifier": "ITheRealMuha",
+	"verification": "https://youtu.be/jDlcbcK-2c8",
+	"percentToQualify": 82,
+	"password": "No Copy",
+	"records": [
+		{
+			"user":"everydayjonah",
+			"link":"https://youtu.be/NkrYZyGvXTM",
+			"percent":100,
+			"hz":360
+		},
+	{
+			"user": "ZeroxyGD",
+			"link": "https://youtu.be/P50e7_b4BS4",
+			"percent": 100,
+			"hz":60
+		},
+		{
+			"user": "CosmicMelody",
+			"link": "https://www.youtube.com/watch?v=tu6DV79L-ug",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Token",
+			"link": "https://youtu.be/NxCgYbe5IW8",
+			"percent": 100,
+			"hz": 60
+		}
+]
+}

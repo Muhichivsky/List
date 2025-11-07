@@ -1,0 +1,46 @@
+{
+	"id": 119,
+	"name": "1NV3RN0",
+	"tags": [
+	],
+	"author": "ZeroxyGD",
+	"creators": [],
+	"verifier": "everydayjonah",
+	"verification": "https://youtu.be/Hje9aGe4ewE",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		
+		{
+			"user":"ITheRealMuha",
+			"link":"https://www.youtube.com/watch?v=n3-b8G4LUK0",
+			"percent":100,
+			"hz":165	
+		},
+	{
+			"user": "Prolly",
+			"link": "https://www.youtube.com/watch?v=agKadpJRdDg",
+	
+			"percent": 100,
+			"hz": 75
+		},
+{
+			"user":"CosmicMelody",
+    			"link":"https://youtu.be/xyRzq_vQ8Xk?si=wvRa9aN8BzdlpPdf",
+    			"percent":100,
+    			"hz":240
+		},
+{
+			"user":"Token",
+    			"link":"https://youtu.be/VmdmRNNgzKM",
+    			"percent":100,
+    			"hz":360
+		},
+	{
+		"user": "GameFunny",
+			"link": "https://drive.google.com/file/d/1DdU5oShR_4gawNV_AoQh-0fkmeCjDUUp/view?usp=drive_link",
+			"percent": 100,
+			"hz": 240
+	}
+	]
+}

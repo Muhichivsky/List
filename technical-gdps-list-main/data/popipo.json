@@ -1,0 +1,20 @@
+{
+	"id": 170,
+	"name": "PoPiPo",
+	"tags": [
+	],
+	"author": "Oazysaz1616",
+	"creators": [],
+	"verifier": "Token",
+	"verification": "https://youtu.be/2QWoM67qP4M",
+	"percentToQualify": 69,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "GameFunny",
+			"link": "https://drive.google.com/file/d/18N61jGlEvMCvuWIwn-gPv4EhBXyiBim_/view?usp=drive_link",
+			"percent": 100,
+			"hz": 240
+		}
+        ]
+}

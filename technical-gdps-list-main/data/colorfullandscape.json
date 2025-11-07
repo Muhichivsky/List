@@ -1,0 +1,51 @@
+{
+	"id": 108,
+	"name": "Colorful Landscape",
+	"tags": [
+		"short"
+	],
+	"author": "FB26",
+	"creators": [],
+	"verifier": "FB26",
+	"verification": "https://youtu.be/RknYlOa_BJg?si=lWiz0P8WuwiYzQOk",
+	"percentToQualify": 68,
+	"password": "No Copy",
+	"records": [
+		{
+			"user":"ITheRealMuha",
+    			"link":"https://youtu.be/CvrWIID1IXU",
+    			"percent":100,
+    			"hz":165
+		},
+		{
+			"user":"everydayjonah",
+    			"link":"https://youtu.be/3YMqBIoPptI",
+    			"percent":100,
+    			"hz":360
+		},
+		{
+			"user": "CosmicMelody",
+			"link": "https://www.youtube.com/watch?v=ZvRMXU1sJuo",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Token",
+			"link": "https://youtu.be/8EG8hFuhpeI",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "GameFunny",
+			"link": "https://drive.google.com/file/d/1bMZ0A5tdXG1paCNkK4zjk3tW1VGbkTWv/view",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "kkolji",
+			"link": "https://youtu.be/AmNfq7GDt8U?si=TP0GtinxM2kCmFBU",
+			"percent": 100,
+			"hz": 180
+		}
+	]
+}
