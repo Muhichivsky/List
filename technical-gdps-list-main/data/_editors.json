@@ -3,8 +3,8 @@
         "role": "owner",
         "members": [
             {
-                "name": "Thelazycat",
-                "link": "https://www.youtube.com/@_thelazycat"
+                "name": "AlienMuha",
+                "link": "https://www.youtube.com/@puamidka"
             }
         ]
     },
@@ -16,18 +16,6 @@
     {
         "role": "admin",
         "members": [
-            {
-                "name": "ITheRealMuha",
-                "link": "https://www.youtube.com/@puamidka"
-            },
-{
-                "name": "CosmicMelody",
-                "link": ""
-            },
-            {
-                "name":"GameFunny",
-                "link":"https://www.youtube.com/channel/UCmToBppB8BNC4vxyMRVCF6w"
-            }
         ]
     },
     {
@@ -42,26 +30,6 @@
     },    
     {       "role": "dev",
             "members": [
-                {
-                    "name": "Simolater",
-                    "link": "https://www.youtube.com/channel/UCHuFRMtpbYyVHIjXG1-h7SA"
-                },
-                {
-                    "name": "Infectus",
-                    "link": "https://www.youtube.com/@infectus"
-                },
-                {
-                    "name": "Zoink Doink",
-                    "link": "https://www.youtube.com/channel/UCaGtN9gENwLEX15tZMsGrow"
-                },
-                {
-                    "name": "Oculations",
-                    "link": "https://www.youtube.com/@Oculations"
-                },
-                {
-                    "name": "WinDoge",
-                    "link": "https://www.youtube.com/@windogee"
-                }
             ]
     }
 ]
